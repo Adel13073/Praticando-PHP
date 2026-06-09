@@ -5,7 +5,7 @@ Este repositório contém a resolução de uma lista de 7 exercícios de lógica
 Como os códigos foram estruturados com lógica e variáveis puras (sem dependência de formulários HTML ou bancos de dados), eles podem ser executados rapidamente em qualquer máquina que tenha o PHP instalado, sem a necessidade de servidores como Laragon ou XAMPP.
 
 
-## 🚀 Como executar os exercícios na sua máquina
+##  Como executar os exercícios na sua máquina
 
 Certifique-se de que tem o PHP instalado no seu sistema (`php -v`). Escolha uma das duas formas abaixo para testar os ficheiros:
 
